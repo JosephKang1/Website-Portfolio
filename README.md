@@ -39,7 +39,7 @@ Connect with me! Find my email address and links to my GitHub, LinkedIn, and Gma
 - **Animation:** Custom animations and fade-in effects
 
 ## Credits
-- The website template is based on WebThemez's design.
+- Website Skeleton is based on Webthemez design
 - Icons are sourced from Font Awesome.
 - Additional images and icons are created or obtained from public domain sources.
 

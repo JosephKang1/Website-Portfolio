@@ -43,4 +43,3 @@ Connect with me! Find my email address and links to my GitHub, LinkedIn, and Gma
 - Icons are sourced from Font Awesome.
 - Additional images and icons are created or obtained from public domain sources.
 
-For more information or to view the live website, please visit [Joseph Kang's Portfolio](#).
